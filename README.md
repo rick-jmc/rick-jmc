@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rick-jmc
-- 🌱 I’m currently learning Engineering in Computer Science
+- 🌱 I’m currently majoring in Applied Mathematics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
